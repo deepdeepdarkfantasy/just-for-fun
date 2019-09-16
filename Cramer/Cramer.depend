@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507560435 source:d:\ccccccccccccc\cramer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
